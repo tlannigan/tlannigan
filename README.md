@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlannigan&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlannigan&hide=html&theme=onedark)
